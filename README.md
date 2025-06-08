@@ -1,4 +1,4 @@
-# Hello there 👋, I´m lonvinho
+# Hello there 👋, I´m lonv
 It’s a pleasure to meet you! My name is Pedro Levi, and I´m currently working in Fullstack projects, leveraging my skills in React.js, JavaScript, Node.js, SQL, and more. At present I´m in the process of completing my degree in Systems Analysis and Development at UNOESTE, I´m also in my final year of my CCAA course. In my free time, I focus on refining my English skills and exploring new technologies I’m familiar with, as well as those I plan to use in the future, and sometimes I also enjoy making and appreciating art. I have hands-on experience with both backend and frontend development.
 
 ## 🔎 Technologies & Languages 
