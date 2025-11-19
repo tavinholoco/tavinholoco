@@ -1,5 +1,8 @@
-# Hello there 👋, I´m lonv
-It’s a pleasure to meet you! My name is Pedro Levi, and I´m currently working in Fullstack projects, leveraging my skills in React.js, JavaScript, Node.js, SQL, and more. At present I´m in the process of completing my degree in Systems Analysis and Development at UNOESTE, I´m also in my final year of my CCAA course. In my free time, I focus on refining my English skills and exploring new technologies I’m familiar with, as well as those I plan to use in the future, and sometimes I also enjoy making and appreciating art. I have hands-on experience with both backend and frontend development.
+# Hi nice to meet you 👋
+My name is Pedro Levi, and I’m a Fullstack Developer with experience in React.js, JavaScript, Node.js, SQL, and other modern web technologies.
+I recently graduated in Systems Analysis and Development (ADS) at UNOESTE, and I am currently in the final stage of my English course at CCAA.
+At the moment, I’m actively developing my skills through several personal and academic projects, continually improving both my backend and frontend capabilities. I’m always exploring new technologies, tools, and best practices to elevate the quality of my work.
+I have solid hands-on experience in building fullstack applications and enjoy transforming ideas into functional, well-structured solutions.
 
 ## 🔎 Technologies & Languages 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
