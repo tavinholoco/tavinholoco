@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tavinholoco)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tavinholoco)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolevidiass@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://meu-site-noticias.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tavinholoco&style=flat-square&color=6C63FF&label=visitas+ao+perfil)
@@ -116,13 +116,84 @@ Valorizo projetos bem arquitetados: código tipado com TypeScript, testes automa
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tavinholoco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavinholoco&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tavinholoco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=3600)](https://github.com/tavinholoco)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tavinholoco&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=3600)](https://github.com/tavinholoco)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tavinholoco&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
+## 🔭 Upgrades Futuros para este README
+
+<details>
+<summary><b>🟢 Curto prazo — fácil de implementar agora</b></summary>
+
+<br/>
+
+**📸 Foto de perfil profissional**
+Adicione uma boa foto no perfil do GitHub. É a primeira coisa que um recrutador vê e faz enorme diferença na percepção de profissionalismo. Não precisa ser estúdio — uma foto bem iluminada com fundo neutro já resolve.
+
+**🔥 GitHub Streak Stats**
+Já adicionado acima! Mostra sua sequência de contribuições — muito valorizado visualmente.
+
+</details>
+
+<details>
+<summary><b>🟡 Médio prazo — quando tiver mais projetos</b></summary>
+
+<br/>
+
+**📋 Expansão da tabela de projetos**
+A tabela atual foi projetada para crescer. Quando um novo repositório estiver maduro, basta adicionar uma linha — sem poluir o README. Os detalhes ficam protegidos dentro do `<details>`.
+
+**🎬 GIFs/Screenshots dos projetos**
+Quando o `meu-site-noticias` estiver mais completo, adicionar um GIF curto (gravado com o [ScreenToGif](https://www.screentogif.com/)) demonstrando a interface diretamente no README. Para o `repertorio-progressivo`, já existem screenshots no `docs/` do repo — poderiam ser referenciados aqui.
+
+**📌 "Atualmente estudando" dinâmico**
+Um bloco simples mas eficiente para mostrar evolução contínua:
+```markdown
+> 🌱 Atualmente estudando: **Next.js · Docker · PostgreSQL**
+```
+
+**🌍 Versão em inglês**
+Dado o seu inglês em evolução no CCAA, criar um README paralelo em inglês (`README.en.md`) abre portas para recrutadores internacionais. Pode ser feito quando o inglês estiver mais confortável.
+
+</details>
+
+<details>
+<summary><b>🔴 Longo prazo — automação com GitHub Actions</b></summary>
+
+<br/>
+
+**⚙️ O que é o GitHub Actions no contexto de README?**
+
+O GitHub Actions permite criar *workflows* (scripts automatizados) que rodam na nuvem do GitHub. No contexto de um README de perfil, partes do seu README podem se **atualizar sozinhas** sem você precisar editar nada manualmente.
+
+**Exemplos práticos do que daria para automatizar:**
+
+| Automação | O que faz | Complexidade |
+|---|---|---|
+| **Última release do app** | Atualiza a versão do `repertorio-progressivo` no README ao publicar nova release | 🟡 Média |
+| **Blog posts recentes** | Se você escrever no dev.to ou Medium, os últimos posts aparecem automaticamente | 🟢 Baixa |
+| **Status do deploy** | Badge dinâmico mostrando se o site de notícias está online | 🟡 Média |
+| **Último commit por repositório** | Lista os últimos commits dos seus repos ativos | 🔴 Alta |
+
+**Como funciona na prática:**
+1. Você cria um arquivo `.github/workflows/update-readme.yml` no repositório `tavinholoco/tavinholoco`
+2. Define um *schedule* (ex.: todo domingo às 00h) ou um gatilho (ex.: ao criar uma nova release)
+3. O workflow executa um script que edita o `README.md` e faz commit automaticamente
+
+> ⚠️ **Recomendação:** comece pelo streak badge e pelos cards de stats — já são dinâmicos sem precisar de Actions. Quando tiver mais projetos publicados, aí vale investir nas automações.
+
+</details>
+
+---
+
 <div align="center">
-Badges por Shields.io  ·  Stats por github-readme-stats
+
+*Badges por [Shields.io](https://shields.io) &nbsp;·&nbsp; Stats por [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) &nbsp;·&nbsp; Streak por [streak-stats](https://streak-stats.demolab.com)*
+
 </div>
