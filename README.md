@@ -1,49 +1,128 @@
-# Hi nice to meet you 👋
-My name is Pedro Levi, and I’m a Fullstack Developer with experience in React.js, JavaScript, Node.js, SQL, and other modern web technologies.
-I recently graduated in Systems Analysis and Development (ADS) at UNOESTE, and I am currently in the final stage of my English course at CCAA.
-At the moment, I’m actively developing my skills through several personal and academic projects, continually improving both my backend and frontend capabilities. I’m always exploring new technologies, tools, and best practices to elevate the quality of my work.
-I have solid hands-on experience in building fullstack applications and enjoy transforming ideas into functional, well-structured solutions.
+<div align="center">
 
-## 🔎 Technologies & Languages 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+# Pedro Levi &nbsp;·&nbsp; @tavinholoco
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="assets/Programming-amico.svg" alt="Illustration" style="width: 500px; height: auto;">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Mobile+%7C+Web+%7C+TypeScript;React+Native+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tavinholoco)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tavinholoco)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://meu-site-noticias.vercel.app)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tavinholoco&style=flat-square&color=6C63FF&label=visitas+ao+perfil)
+
 </div>
 
+---
 
+## 🧑‍💻 Sobre mim
 
-> Using [📊storyset](https://storyset.com/web)
+Desenvolvedor Fullstack com foco em **web e mobile**, formado em **Análise e Desenvolvimento de Sistemas (ADS)** pela UNOESTE. Tenho experiência sólida na construção de aplicações fullstack — do backend ao frontend — e mais recentemente expandindo minha atuação para o **desenvolvimento mobile com React Native**.
 
+Valorizo projetos bem arquitetados: código tipado com TypeScript, testes automatizados, separação clara de responsabilidades e documentação de qualidade. Estou sempre evoluindo, aplicando boas práticas e explorando o que há de mais moderno no ecossistema JavaScript/TypeScript.
 
-[Badges](https://github.com/Ileriayo/markdown-badges)
-<!--
-**tavinholoco/tavinholoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://storyset.com/web">Web illustrations by Storyset</a>
-![storysett](https://github.com/tavinholoco/tavinholoco/blob/main/assets/Programming-amico.svg)
+> 🎯 Atualmente desenvolvendo o **Meu Site de Notícias** (fullstack) &nbsp;·&nbsp; 🌐 Finalizando inglês na **CCAA**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Stack | Status |
+|---|---|---|---|
+| 📱 [**Repertório Progressivo**](https://github.com/tavinholoco/repertorio-progressivo) | App mobile Android para organizar estudos, com agenda de lembretes, notificações push, rastreamento de aproveitamento mensal/anual e 144 testes automatizados | `React Native` `Expo` `TypeScript` `NativeWind` `Jest` | ✅ Concluído · v2.0 |
+| 🌐 [**Meu Site de Notícias**](https://github.com/tavinholoco/meu-site-noticias) | Portal de notícias fullstack com frontend em React + Vite e API REST em Node.js + Express. Deploy no Vercel | `React` `Vite` `Node.js` `Express` `JavaScript` | 🔨 Em desenvolvimento |
+
+<details>
+<summary><b>📌 Ver detalhes dos projetos</b></summary>
+
+<br/>
+
+### 📱 Repertório Progressivo
+
+[![CI](https://github.com/tavinholoco/repertorio-progressivo/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/tavinholoco/repertorio-progressivo/actions/workflows/test.yml)
+![Versão](https://img.shields.io/badge/versão-2.0-6C2DC7?style=flat-square)
+![Testes](https://img.shields.io/badge/testes-144%20passing-brightgreen?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-95.8%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+[![APK](https://img.shields.io/badge/Download-APK%20v2.0-6C2DC7?style=flat-square&logo=android&logoColor=white)](https://github.com/tavinholoco/repertorio-progressivo/releases/latest)
+
+- 🏗️ Arquitetura em camadas: `AsyncStorage → services → context → hooks → components`
+- ⚡ React Compiler + New Architecture (Fabric + TurboModules) habilitados
+- 🔔 Notificações push agendadas via `expo-notifications`
+- 🧪 144 testes em 8 suites (unitários + integração)
+- 📊 8 diagramas de arquitetura em Mermaid
+- 📦 Releases públicos com APK para download
+
+---
+
+### 🌐 Meu Site de Notícias
+
+[![Deploy](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://meu-site-noticias.vercel.app)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=flat-square)
+
+- 🎨 Interface de portal de notícias com React + Vite
+- ⚙️ API REST com Node.js + Express
+- 🌍 Deploy do frontend no Vercel
+- 📁 Monorepo com pastas `frontend/` e `backend/` separadas
+
+</details>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🌐 Frontend Web
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Banco de Dados
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📝 Linguagens
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🧪 Testes & Qualidade
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+### 🔧 Ferramentas & Ambiente
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tavinholoco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavinholoco&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+<div align="center">
+Badges por Shields.io  ·  Stats por github-readme-stats
+</div>
