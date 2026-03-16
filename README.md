@@ -2,13 +2,13 @@
 
 # Pedro Levi &nbsp;·&nbsp; @tavinholoco
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Mobile+%7C+Web+%7C+TypeScript;React+Native+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Mobile+%7C+Web+%7C+TypeScript;React+Native+%7C+Next.js+%7C+Node.js)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tavinholoco)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tavinholoco)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolevidiass@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://meu-site-noticias.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tavinholoco&style=flat-square&color=6C63FF&label=visitas+ao+perfil)
 
@@ -18,11 +18,11 @@
 
 ## 🧑‍💻 Sobre mim
 
-Desenvolvedor Fullstack com foco em **web e mobile**, formado em **Análise e Desenvolvimento de Sistemas (ADS)** pela UNOESTE. Tenho experiência sólida na construção de aplicações fullstack — do backend ao frontend — e mais recentemente expandindo minha atuação para o **desenvolvimento mobile com React Native**.
+Desenvolvedor Fullstack com foco em **web e mobile**, formado em **Análise e Desenvolvimento de Sistemas (ADS)** pela UNOESTE. Tenho experiência sólida na construção de aplicações fullstack — do backend ao frontend — e mais recentemente expandindo minha atuação para **desenvolvimento mobile com React Native**.
 
 Valorizo projetos bem arquitetados: código tipado com TypeScript, testes automatizados, separação clara de responsabilidades e documentação de qualidade. Estou sempre evoluindo, aplicando boas práticas e explorando o que há de mais moderno no ecossistema JavaScript/TypeScript.
 
-> 🎯 Atualmente desenvolvendo o **Meu Site de Notícias** (fullstack) &nbsp;·&nbsp; 🌐 Finalizando inglês na **CCAA**
+> 🎯 Atualmente desenvolvendo o **Newra News** (fullstack · IA) &nbsp;·&nbsp; 🌐 Finalizando inglês na **CCAA**
 
 ---
 
@@ -31,7 +31,7 @@ Valorizo projetos bem arquitetados: código tipado com TypeScript, testes automa
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
 | 📱 [**Repertório Progressivo**](https://github.com/tavinholoco/repertorio-progressivo) | App mobile Android para organizar estudos, com agenda de lembretes, notificações push, rastreamento de aproveitamento mensal/anual e 144 testes automatizados | `React Native` `Expo` `TypeScript` `NativeWind` `Jest` | ✅ Concluído · v2.0 |
-| 🌐 [**Meu Site de Notícias**](https://github.com/tavinholoco/meu-site-noticias) | Portal de notícias fullstack com frontend em React + Vite e API REST em Node.js + Express. Deploy no Vercel | `React` `Vite` `Node.js` `Express` `JavaScript` | 🔨 Em desenvolvimento |
+| 🌐 [**Newra News**](https://github.com/tavinholoco/newra-news) | Portal de notícias com artigo diário gerado por IA. Monorepo com API Fastify e frontend Next.js, banco PostgreSQL e integração com Google Gemini | `Next.js` `Fastify` `TypeScript` `Prisma` `Turborepo` | 🔨 Em desenvolvimento |
 
 <details>
 <summary><b>📌 Ver detalhes dos projetos</b></summary>
@@ -55,15 +55,17 @@ Valorizo projetos bem arquitetados: código tipado com TypeScript, testes automa
 
 ---
 
-### 🌐 Meu Site de Notícias
+### 🌐 Newra News
 
-[![Deploy](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://meu-site-noticias.vercel.app)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-91.9%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- 🎨 Interface de portal de notícias com React + Vite
-- ⚙️ API REST com Node.js + Express
-- 🌍 Deploy do frontend no Vercel
-- 📁 Monorepo com pastas `frontend/` e `backend/` separadas
+- 🤖 Artigos diários gerados automaticamente via **Google Gemini** (fallback: Groq)
+- 🏗️ Monorepo **Turborepo** com `apps/web` (Next.js) e `apps/api` (Fastify)
+- 🗄️ Banco de dados **PostgreSQL** (Neon) + Prisma ORM
+- 🎨 Frontend em **Next.js 14+** com App Router, Tailwind CSS e shadcn/ui
+- ⚙️ API tipada com **Fastify + TypeScript + Prisma**
+- 📦 Gerenciamento de pacotes com **pnpm workspaces**
 
 </details>
 
@@ -80,6 +82,7 @@ Valorizo projetos bem arquitetados: código tipado com TypeScript, testes automa
 
 ### 🌐 Frontend Web
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -87,7 +90,10 @@ Valorizo projetos bem arquitetados: código tipado com TypeScript, testes automa
 
 ### ⚙️ Backend & Banco de Dados
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📝 Linguagens
@@ -103,6 +109,7 @@ Valorizo projetos bem arquitetados: código tipado com TypeScript, testes automa
 ### 🔧 Ferramentas & Ambiente
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -117,15 +124,13 @@ Valorizo projetos bem arquitetados: código tipado com TypeScript, testes automa
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tavinholoco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=3600)](https://github.com/tavinholoco)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavinholoco&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=3600)](https://github.com/tavinholoco)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tavinholoco&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=3600)](https://github.com/tavinholoco)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tavinholoco&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tavinholoco&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
-
 
 <div align="center">
 
