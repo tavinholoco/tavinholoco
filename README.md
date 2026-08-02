@@ -16,29 +16,28 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-Desenvolvedor Fullstack com foco em **web e mobile**, formado em **Análise e Desenvolvimento de Sistemas (ADS)** pela UNOESTE. Tenho experiência sólida na construção de aplicações fullstack — do backend ao frontend — e mais recentemente expandindo minha atuação para **desenvolvimento mobile com React Native**.
+Desenvolvedor Fullstack com foco em **web e mobile**, formado em **Análise e Desenvolvimento de Sistemas (ADS)** pela UNOESTE. Tenho experiência sólida na construção de aplicações fullstack, do backend ao frontend, e mais recentemente expandindo minha atuação para **desenvolvimento mobile com React Native**.
 
 Valorizo projetos bem arquitetados: código tipado com TypeScript, testes automatizados, separação clara de responsabilidades e documentação de qualidade. Estou sempre evoluindo, aplicando boas práticas e explorando o que há de mais moderno no ecossistema JavaScript/TypeScript.
 
-> 🎯 Atualmente desenvolvendo o **Newra News** (fullstack · IA) &nbsp;·&nbsp; 🌐 Finalizando inglês na **CCAA**
-
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
-| 📱 [**Repertório Progressivo**](https://github.com/tavinholoco/repertorio-progressivo) | App mobile Android para organizar estudos, com agenda de lembretes, notificações push, rastreamento de aproveitamento mensal/anual e 144 testes automatizados | `React Native` `Expo` `TypeScript` `NativeWind` `Jest` | ✅ Concluído · v2.0 |
-| 🌐 [**Newra News**](https://github.com/tavinholoco/newra-news) | Portal de notícias com artigo diário gerado por IA. Monorepo com API Fastify e frontend Next.js, banco PostgreSQL e integração com Google Gemini | `Next.js` `Fastify` `TypeScript` `Prisma` `Turborepo` | 🔨 Em desenvolvimento |
+| [**Repertório Progressivo**](https://github.com/tavinholoco/repertorio-progressivo) | App mobile Android para organizar estudos, com agenda de lembretes, notificações push, rastreamento de aproveitamento mensal/anual e 144 testes automatizados | `React Native` `Expo` `TypeScript` `NativeWind` `Jest` | Concluído · v2.0 |
+| [**Newra News**](https://github.com/tavinholoco/newra-news) | Portal de notícias com artigo diário gerado por IA. Monorepo com API Fastify e frontend Next.js, banco PostgreSQL e integração com Google Gemini | `Next.js` `Fastify` `TypeScript` `Prisma` `Turborepo` | Em desenvolvimento |
+| [**Trak Assessoria**](https://github.com/tavinholoco/Trak-Acessoria) | Landing page institucional para assessoria do mercado de arte, com formulário validado, dark mode, SEO técnico e pirâmide completa de testes (unit + componente + E2E) | `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `Vitest` `Playwright` | Concluído |
 
 <details>
-<summary><b>📌 Ver detalhes dos projetos</b></summary>
+<summary><b>Ver detalhes dos projetos</b></summary>
 
 <br/>
 
-### 📱 Repertório Progressivo
+### Repertório Progressivo
 
 [![CI](https://github.com/tavinholoco/repertorio-progressivo/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/tavinholoco/repertorio-progressivo/actions/workflows/test.yml)
 ![Versão](https://img.shields.io/badge/versão-2.0-6C2DC7?style=flat-square)
@@ -46,49 +45,65 @@ Valorizo projetos bem arquitetados: código tipado com TypeScript, testes automa
 ![TypeScript](https://img.shields.io/badge/TypeScript-95.8%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
 [![APK](https://img.shields.io/badge/Download-APK%20v2.0-6C2DC7?style=flat-square&logo=android&logoColor=white)](https://github.com/tavinholoco/repertorio-progressivo/releases/latest)
 
-- 🏗️ Arquitetura em camadas: `AsyncStorage → services → context → hooks → components`
-- ⚡ React Compiler + New Architecture (Fabric + TurboModules) habilitados
-- 🔔 Notificações push agendadas via `expo-notifications`
-- 🧪 144 testes em 8 suites (unitários + integração)
-- 📊 8 diagramas de arquitetura em Mermaid
-- 📦 Releases públicos com APK para download
+- Arquitetura em camadas: `AsyncStorage → services → context → hooks → components`
+- React Compiler + New Architecture (Fabric + TurboModules) habilitados
+- Notificações push agendadas via `expo-notifications`
+- 144 testes em 8 suites (unitários + integração)
+- 8 diagramas de arquitetura em Mermaid
+- Releases públicos com APK para download
 
 ---
 
-### 🌐 Newra News
+### Newra News
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-91.9%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- 🤖 Artigos diários gerados automaticamente via **Google Gemini** (fallback: Groq)
-- 🏗️ Monorepo **Turborepo** com `apps/web` (Next.js) e `apps/api` (Fastify)
-- 🗄️ Banco de dados **PostgreSQL** (Neon) + Prisma ORM
-- 🎨 Frontend em **Next.js 14+** com App Router, Tailwind CSS e shadcn/ui
-- ⚙️ API tipada com **Fastify + TypeScript + Prisma**
-- 📦 Gerenciamento de pacotes com **pnpm workspaces**
+- Artigos diários gerados automaticamente via **Google Gemini** (fallback: Groq)
+- Monorepo **Turborepo** com `apps/web` (Next.js) e `apps/api` (Fastify)
+- Banco de dados **PostgreSQL** (Neon) + Prisma ORM
+- Frontend em **Next.js 14+** com App Router, Tailwind CSS e shadcn/ui
+- API tipada com **Fastify + TypeScript + Prisma**
+- Gerenciamento de pacotes com **pnpm workspaces**
+
+---
+
+### Trak Assessoria
+
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen?style=flat-square)
+[![Deploy](https://img.shields.io/badge/deploy-vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://trak-acessoria.vercel.app)
+
+- Landing page one-page para assessoria/consultoria do mercado de arte (galerias, ateliês, produtoras)
+- **Next.js 16** (App Router) + **React 19**, com **shadcn/ui** e **Base UI** como primitivas de acessibilidade
+- Formulário de contato com **React Hook Form + Zod** (validação client e server) e envio via **Resend**
+- Dark mode persistido com **next-themes**
+- Pirâmide de testes: **Vitest** (unit/componente) + **Testing Library** + **Playwright** (E2E, 3 navegadores + mobile) com auditoria de acessibilidade via **axe-core**
+- SEO técnico completo (JSON-LD, sitemap, Open Graph) e conformidade LGPD
+- CI no GitHub Actions: lint → typecheck → testes → cobertura → E2E
 
 </details>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
-### 📱 Mobile
+### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 ![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🌐 Frontend Web
+### Frontend Web
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Banco de Dados
+### Backend & Banco de Dados
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -96,17 +111,24 @@ Valorizo projetos bem arquitetados: código tipado com TypeScript, testes automa
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📝 Linguagens
+### Formulários & Validação
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+### Linguagens
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🧪 Testes & Qualidade
+### Testes & Qualidade
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-### 🔧 Ferramentas & Ambiente
+### Ferramentas & Ambiente
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
@@ -119,7 +141,7 @@ Valorizo projetos bem arquitetados: código tipado com TypeScript, testes automa
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
