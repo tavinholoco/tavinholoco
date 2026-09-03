@@ -51,7 +51,15 @@ jobs:
           git add assets/stats.svg assets/stats.pt-BR.svg
           if git diff --staged --quiet; then
             echo "Nenhuma mudanca nas estatisticas."
-          else
-            git commit -m "chore: atualiza os cards de estatisticas"
-            git push
+            exit 0
           fi
+          git commit -m "chore: atualiza os cards de estatisticas"
+          # Dois runs podem se sobrepor (agendado e push, por exemplo) e deixar
+          # este checkout para tras. Rebase e tenta de novo antes de desistir.
+          for i in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Push rejeitado. Rebase na main e nova tentativa ($i/3)."
+            git pull --rebase origin main
+          done
+          echo "Push falhou apos 3 tentativas."
+          exit 1
