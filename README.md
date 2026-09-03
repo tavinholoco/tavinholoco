@@ -102,6 +102,16 @@ Currently building **Netsheet Engine** and evolving **Newra News**.
 
 ---
 
+## GitHub
+
+<div align="center">
+
+![Card with GitHub activity for the last 12 months: contributions, commits, pull requests, issues and language breakdown](assets/stats.svg)
+
+</div>
+
+---
+
 ## Contact
 
 [Portfolio](https://portfolio-tau-five-f86nc5khr8.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/pedro-levi-dias-96720126a/) | [pedrolevidiass@gmail.com](mailto:pedrolevidiass@gmail.com)
