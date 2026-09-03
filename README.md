@@ -102,16 +102,6 @@ Currently building **Netsheet Engine** and evolving **Newra News**.
 
 ---
 
-## GitHub
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tavinholoco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=3600)](https://github.com/tavinholoco)
-
-</div>
-
----
-
 ## Contact
 
 [Portfolio](https://portfolio-tau-five-f86nc5khr8.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/pedro-levi-dias-96720126a/) | [pedrolevidiass@gmail.com](mailto:pedrolevidiass@gmail.com)
