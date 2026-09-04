@@ -56,7 +56,7 @@ Currently building **Netsheet Engine** and evolving **Newra News**.
 - Google Gemini as the primary model, Groq as fallback; every briefing cites its sources and discloses that it was AI generated
 - PostgreSQL on Neon with Prisma, migrations applied by a dedicated workflow rather than from a local machine
 - 1,409 unit and integration tests plus 29 Playwright specs run against production
-- Six GitHub Actions workflows: CI, Gitleaks, Smoke E2E, Lighthouse CI, Migrate and Keep-alive
+- Five GitHub Actions workflows: CI, Gitleaks, Smoke E2E, Lighthouse CI and Migrate
 
 **Trak Assessoria**
 
