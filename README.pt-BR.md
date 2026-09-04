@@ -6,7 +6,7 @@
 
 [English](README.md) | **Português**
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tau-five-f86nc5khr8.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://pedrolevi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-levi-dias-96720126a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolevidiass@gmail.com)
 
@@ -114,4 +114,4 @@ Atualmente construindo o **Netsheet Engine** e evoluindo o **Newra News**.
 
 ## Contato
 
-[Portfólio](https://portfolio-tau-five-f86nc5khr8.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/pedro-levi-dias-96720126a/) | [pedrolevidiass@gmail.com](mailto:pedrolevidiass@gmail.com)
+[Portfólio](https://pedrolevi.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/pedro-levi-dias-96720126a/) | [pedrolevidiass@gmail.com](mailto:pedrolevidiass@gmail.com)

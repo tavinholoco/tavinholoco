@@ -6,7 +6,7 @@
 
 **English** | [Português](README.pt-BR.md)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tau-five-f86nc5khr8.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://pedrolevi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-levi-dias-96720126a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolevidiass@gmail.com)
 
@@ -114,4 +114,4 @@ Currently building **Netsheet Engine** and evolving **Newra News**.
 
 ## Contact
 
-[Portfolio](https://portfolio-tau-five-f86nc5khr8.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/pedro-levi-dias-96720126a/) | [pedrolevidiass@gmail.com](mailto:pedrolevidiass@gmail.com)
+[Portfolio](https://pedrolevi.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/pedro-levi-dias-96720126a/) | [pedrolevidiass@gmail.com](mailto:pedrolevidiass@gmail.com)
